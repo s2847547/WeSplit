@@ -13,7 +13,7 @@ struct ContentView: View {
             Section {
                 Text("Hello, world!")
             }
-
+            
             Section {
                 Text("Hello, world!")
                 Text("Hello, world!")
