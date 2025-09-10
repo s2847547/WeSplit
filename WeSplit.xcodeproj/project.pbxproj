@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		04CCE2502E721C8E003126BA /* Review of Project 1 - WeSplit.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CCE24F2E721C8D003126BA /* Review of Project 1 - WeSplit.png */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		04CCE2412E6FB688003126BA /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CCE24F2E721C8D003126BA /* Review of Project 1 - WeSplit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Review of Project 1 - WeSplit.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		04CCE2382E6FB688003126BA = {
 			isa = PBXGroup;
 			children = (
+				04CCE24F2E721C8D003126BA /* Review of Project 1 - WeSplit.png */,
 				04CCE2432E6FB688003126BA /* WeSplit */,
 				04CCE2422E6FB688003126BA /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04CCE2502E721C8E003126BA /* Review of Project 1 - WeSplit.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
